@@ -1,0 +1,6 @@
+POST https://localhost:5000/api/authors
+Content-Type: application/json
+
+{
+    "Name": "Jack Sparrow"
+}
